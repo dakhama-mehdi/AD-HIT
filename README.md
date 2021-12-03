@@ -1,5 +1,7 @@
 # AD-HIT
 
+![AD-hit-1](https://user-images.githubusercontent.com/49924401/144581278-8e8efc93-c48a-40ec-a256-c0054383854b.gif)
+
 Active Directory - Helper for IT : is a free and secure tool designed to make your daily job easier of administration of you domain Active Directory objects
 
 it allows to IT teams to view and manage various objects in Active Directory environment like (Users, groups, Computer, Printers)

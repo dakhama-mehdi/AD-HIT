@@ -13,6 +13,7 @@ With AD-HIT you are ansure that your team members cannot make mistakes or view s
 
 # How to use 
 * Install the tool from Microsoft Store
+* You can use the pdf file (How-to-use.pdf) join in this page
 
 # What's new in this version
 

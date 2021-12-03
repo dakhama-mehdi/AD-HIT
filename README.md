@@ -16,6 +16,7 @@ With AD-HIT you are ansure that your team members cannot make mistakes or view s
 # How to use 
 * Install the tool from Microsoft Store
 * You can use the pdf file (How-to-use.pdf) join in this page
+* Note for security you must enter 3 characters minimum to search (no result will be returned if you enter less 3 characters)
 
 # What's new in this version
 

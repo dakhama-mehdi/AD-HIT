@@ -10,3 +10,21 @@ it allows to IT teams to view and manage various objects in Active Directory env
 * No credential saved or used, AD-HIT is very secure
 
 With AD-HIT you are ansure that your team members cannot make mistakes or view sensitive information on your AD (canot delete Account only disbale, canot see the AD structure only known OU, need to enter min 3 characters...)
+
+# How to use 
+* Install the tool from Microsoft Store
+
+# What's new in this version
+
+* Added more language 
+* Create user with more specific parameters
+* Add user to group, remove from group
+* Search by (Login, first name, last name, or Phone)
+
+# About 
+
+* the source code will be added as soon
+
+# Contribution 
+
+* Thanks to all members : DEMAN-BARCELO Thierry, Matt souin, Sarouti zouhayer

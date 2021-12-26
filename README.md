@@ -2,7 +2,7 @@
 
 ![ad-hit](https://user-images.githubusercontent.com/49924401/144876038-e950033e-428b-484c-9189-55b4f26675a1.gif)
 
-Active Directory - Helper for IT : is a free and secure tool designed to make your daily job easier of administration of you domain Active Directory objects
+Active Directory - Helper for IT : is a free and secure tool designed (Developed by Microsoft MVP) to make your daily job easier of administration of you domain Active Directory objects
 
 it allows to IT teams to view and manage various objects in Active Directory environment like (Users, groups, Computer, Printers)
 

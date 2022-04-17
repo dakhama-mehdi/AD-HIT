@@ -7,28 +7,12 @@
     .DESCRIPTION
 #>
 
-
-
-#region Source: Startup.pss
-#region File Recovery Data (DO NOT MODIFY)
-<#RecoveryData:
-xAQAAB+LCAAAAAAABAC9lE1Lw0AQhu+C/yH0XLaJ2/QD0kBp7UVaxYp6naSTsrgfZXa3Nf/eWKVR
-hLaohLnszDLvw8swk9xjbrZI5RQcBNXDCqNHLc6iVnp5EQTJLYm10CBnQuICFKZLB+T8hm2sTTo/
-fvc9Y2tRZVKg3ed1pUzHdrNAN59Prl9dO3j85F2x8D3awcRL5wlHGr0jkO3gzlc6+Q2WD+YF9SgL
-eREX/SKKVnEIHJLOQfkYiRFa4ylHe4RZ0F9wy9I6VLV892xL/T7EedyLhryL4WB4ksHmoGGNCrVj
-Y++MAlcBa3J0LplHWcEHcQ9WvNdFHp8mPwm9MjvLZoaUbcTrlGAn9Po3rPNnp2xuSIqsGUfVojUC
-elayGUOCMHeGyiXSVnzbsf8a1iH9OClJ5+vVSt8A5y3RY8QEAAA=#>
-#endregion
-#----------------------------------------------
-#region Import Assemblies
-#----------------------------------------------
 [void][Reflection.Assembly]::Load('AspNetMMCExt, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a')
 [void][Reflection.Assembly]::Load('AspNetMMCExt.resources, Version=2.0.0.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a')
 [void][Reflection.Assembly]::Load('System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089')
 [void][Reflection.Assembly]::Load('System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a')
 [void][Reflection.Assembly]::Load('System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089')
 [void][Reflection.Assembly]::Load('System.DirectoryServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a')
-#endregion Import Assemblies
 
 #Define a Param block to use custom parameters in the project
 #Param ($CustomParameter)
